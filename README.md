@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 
-## Hi 👋, I'm Bilal
-
 <img align='right' src="https://github.com/balturki/balturki/blob/main/coding.gif" width="295">
 
 <div>
@@ -20,8 +18,8 @@
 
 <details>
   <summary>Stats</summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhishek20182&show_icons=true&theme=algolia&count_private=true" alt="abhishek20182" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek20182&theme=algolia" alt="abhishek20182" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=balturki&show_icons=true&theme=algolia&count_private=true" alt="balturki" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balturki&theme=algolia" alt="balturki" />
   </details>
 
 
