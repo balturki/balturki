@@ -1,4 +1,4 @@
-<h1 Hi 👋, I'm Bilal</h1>
+<h1 align="left">Hi 👋, I'm Bilal</h1>
 
 <img align='right' src="https://github.com/balturki/balturki/blob/main/coding.gif" width="295">
 
