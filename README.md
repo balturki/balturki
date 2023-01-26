@@ -18,11 +18,10 @@
 
 ## 📈 My GitHub Stats
 
-<details>
-  <summary>Stats</summary>
+
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=balturki&show_icons=true&theme=algolia&count_private=true" alt="balturki" />
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balturki&theme=algolia" alt="balturki" />
-  </details>
+
 
 
 
