@@ -12,7 +12,7 @@
 
 - 🎓 I've  completed my **Bachelors in Computwe Scinces** from the **Taibah University**.
 - 👨‍💼 I'm currently working at **IT-Department** as a **Database Administrator (DBA) & Business Intelligence (BI)**.
-- 👓 I'm interested with data engineering
+- 👓 I'm interested with Data Engineering
 - ⚡️ Fast learner.
 
 
