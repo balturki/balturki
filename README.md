@@ -3,12 +3,14 @@
 <img align='right' src="https://github.com/balturki/balturki/blob/main/coding.gif" width="295">
 
 <div>
-<img src="https://img.shields.io/badge/Nitian-Abhishek%20Tiwari-important">
-<img src="https://img.shields.io/badge/EXLer-Business%20Analyst-red">
+<img src="https://img.shields.io/badge/     -Database%20Administrator-red">
+<img src="https://img.shields.io/badge/     -Business%20Intelligence-important">
+<img src="https://img.shields.io/badge/     -Data%20Analytics-yellow">
+<img src="https://img.shields.io/badge/     -Business%20Analyst-green">
 </div>
 </br>
 
-- 🎓 I've  completed my **Bachelors in Computwe Scinces** from the **Taibah University, Raipur**.
+- 🎓 I've  completed my **Bachelors in Computwe Scinces** from the **Taibah University**.
 - 👨‍💼 I'm currently working at **IT-Department** as a **Database Administrator (DBA) & Business Intelligence (BI)**.
 - 👓 I'm interested with data engineering
 - ⚡️ Fast learner.
